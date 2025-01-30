@@ -1,1 +1,1 @@
-# Ezamazwe
+The repository for the actual project is private, and we are not allowed to share the source code or the CMS side. Hence, I disabled the GitHub button for this project. This project was made for a client.
